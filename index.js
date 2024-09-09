@@ -13,3 +13,5 @@
 // }
 
 // printDiagonalSquare(20);
+
+let a
