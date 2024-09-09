@@ -5,7 +5,7 @@
 //       if (i === 0 || i === size - 1 || j === 0 || j === size - 1 || i === j) {
 //         row += "* ";
 //       } else {
-//         row += " ";
+//         row += "  ";
 //       }
 //     }
 //     console.log(row);
